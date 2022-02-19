@@ -48,11 +48,11 @@ Allows you to stream different things in multiple chats simultaneously. Each cha
 
 Iron Music Player is multilingual and speaks [various languages](#languages),
 Thanks to the Translators.
-
+ https://heroku.com/deploy?template=https://github.com/marrk85/IronMusicPlayer
 ## 🚀 <a name="deploy"></a>Deploy
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marrk85/IronMusicPlayer)
-
+ github
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
