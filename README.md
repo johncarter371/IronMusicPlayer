@@ -51,7 +51,7 @@ Thanks to the Translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marrk85/IronMusicPlayer)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/johncarter371/IronMusicPlayer)
 
 ## ☁️ <a name="self_host"></a>Self Host
 
